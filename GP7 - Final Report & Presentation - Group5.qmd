@@ -40,12 +40,10 @@ execute:
 
 # Appendix
 
--   GitHub Repo
+-   [GitHub Repo](https://github.com/lewiswaddell/GP7.git)
 
--   GitHub Page
+-   [GitHub Page](https://lewiswaddell.github.io/GP7/)
 
--   Creative Asset OneDrive
+-   [Creative Asset OneDrive](https://livecsupomona-my.sharepoint.com/:f:/g/personal/lewiswaddell_cpp_edu/IgAHNSasOhFFTKvCIr9KSiX4ARCBBBdovH_U_9iEdJw09Hg?e=lHWzJb)
 
 -   Presentation Slides
-
-# 
