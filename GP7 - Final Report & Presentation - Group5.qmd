@@ -1,0 +1,51 @@
+---
+title: |
+  <div style="display:flex; align-items:center; justify-content:center; gap:15px;">
+    <img src="637382017185780333+290935.avif" style="height:70px;">
+    <span>Assignment 7: Final Report & Presentation</span>
+  </div>
+author: "Group 5: Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann Lewis-Waddell, & Georgia Monjarrez"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Executive Summary
+
+# Client and Situation Analysis
+
+# Omnichannel Journey Analysis
+
+# Ecommerce / Shopify Prototype
+
+# Product Feed / Retail Media Setup
+
+# Campaign Plan
+
+# Creative Brief / AI Assets
+
+# Analytics Dashboard
+
+# Final Recommendations
+
+# Conclusion
+
+# Appendix
+
+-   GitHub Repo
+
+-   GitHub Page
+
+-   Creative Asset OneDrive
+
+-   Presentation Slides
+
+# 
