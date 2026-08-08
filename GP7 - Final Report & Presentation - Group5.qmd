@@ -18,9 +18,194 @@ execute:
   freeze: auto
 ---
 
-# Executive Summary
+# 1. Executive Summary
 
-# Client and Situation Analysis
+# 2. Client and Situation Analysis 
+
+2.1 Company Overview
+
+CPP Farm Store is a university-operated retail store located at Kellogg Ranch on the California State Polytechnic University, Pomona campus. Since opening in 2001, the store has provided students, faculty, staff, and the surrounding community with access to fresh, campus-grown, and locally sourced products. Its product assortment includes campus-grown and locally sourced produce, dairy products, baked goods, grocery items, and a variety of gift products, including customizable gift boxes and baskets, many of which are produced directly through the university's agricultural programs. This close connection to the university differentiates the Farm Store from traditional grocery retailers and reinforces its commitment to quality, sustainability, and local agriculture. 
+
+While the Farm Store has built a strong reputation for offering high-quality local products, it operates in an increasingly competitive retail environment where customers expect convenient and integrated shopping experiences. Although the physical store provides a unique in-person experience, its digital capabilities remain limited, particularly in areas such as online product discovery, omnichannel integration, and the gift basket ordering process. Addressing these limitations presents an opportunity to improve both the customer experience and operational efficiency. 
+
+To better understand these opportunities, this report evaluates the Farm Store's current business situation by examining its target customers, product offerings, competitive environment, and operational capabilities. This analysis serves as the foundation for the omnichannel recommendations presented in the following sections.
+
+
+2.2 Target Customers
+
+Understanding the Farm Store's target customers is essential for developing an effective omnichannel strategy. Although CPP Farm Store serves a diverse customer base, each customer segment has different shopping behaviors, preferences, and expectations. Recognizing these differences allows the Farm Store to better align its products, services, and marketing efforts with customer needs while creating a more personalized shopping experience.
+
+The Farm Store primarily serves four customer segments: Cal Poly Pomona students, faculty and staff, local community residents, and campus visitors, including parents and alumni. Students typically look for convenient, affordable, and healthy food options that fit their daily campus routines. Faculty and staff value product quality, convenience, and quick access to fresh products during the workday. Local residents are attracted by the Farm Store's locally sourced and seasonal offerings, while alumni and campus visitors often purchase specialty food products, souvenirs, and gift baskets during campus visits or special events. Each segment contributes to the Farm Store's success by supporting its mission of providing fresh, locally produced products to both the university and the surrounding community. 
+
+Among these groups, Cal Poly Pomona students represent the Farm Store's primary target market. As the largest and most accessible customer segment, students frequently visit campus and are highly engaged with social media and mobile devices. Their familiarity with digital channels makes them an important audience for omnichannel initiatives, including online ordering, digital marketing, and mobile-friendly shopping experiences. Successfully engaging this segment can increase customer awareness, encourage repeat purchases, and strengthen long-term brand loyalty. 
+
+While students remain the primary focus of the Farm Store's growth strategy, the business should continue serving its broader customer base through an integrated shopping experience that connects online and in-store channels. By addressing the unique needs of each customer segment, the Farm Store can strengthen customer relationships, expand its market reach, and create a more consistent omnichannel experience.
+
+
+**Table 2.1. Target Customer Segments**
+
+| Customer Segment | Characteristics | Primary Needs |
+|---|---|---|
+| **CPP Students (Primary Target)** | Ages 18–25, digitally engaged, campus-based | Convenience, affordability, healthy options, easy product information, online ordering |
+| **Faculty & Staff** | Campus employees and potential repeat customers | Convenience, quality, fresh products |
+| **Local Community** | Families and individuals near CPP | Locally sourced, seasonal, and sustainable products |
+| **Alumni & Campus Visitors** | Parents, prospective students, alumni, and event visitors | Gifts, specialty items, locally produced food products |
+
+
+2.3 Product Categories
+
+CPP Farm Store offers a mix of campus-grown produce and products from outside suppliers. Based on the current product selection, the main categories include CPP Produce, Produce, Bakery, Grocery/Dairy, and Gift Shop products. This variety allows the store to serve customers looking for fresh produce and everyday grocery items, while also offering products that are more closely connected to Cal Poly Pomona.
+
+One of the Farm Store's most distinctive categories is CPP Produce. Current offerings include Cal Poly Pomona-grown oranges, mandarins, lemons, corn, cucumbers, collard greens, and golden melon. The store also sells other produce, including Fuji, Gala, Granny Smith, and Red Delicious apples, as well as potatoes and yams. An important consideration is that the availability of these products can change throughout the season. The current ordering information specifically notes that inventory may fluctuate and that certain items are not guaranteed to be in stock. From an ecommerce perspective, this makes accurate product and inventory information especially important.
+
+The Farm Store also carries products from outside suppliers. The Bakery section includes Old Town products such as bread, cookies, muffins, and Morning Delights. The Grocery/Dairy section currently includes Rosa Brothers products such as whole milk, chocolate milk, and strawberry milk. These categories help expand the Farm Store's selection beyond produce and give customers additional reasons to shop at the store.
+
+The Gift Shop is another important part of the product mix, especially because gift ordering has been a major focus of this project. Available options include the Satsuma Gift Pack, Avocado Mandarin Gift Pack, Custom Gift Basket, and Custom Gift Box. The custom options allow customers to select products from the Farm Store and create a more personalized gift. However, the ordering process has traditionally required customers to contact the store or coordinate directly with employees. This creates an opportunity to simplify the process by providing clearer product information and more convenient digital ordering options.
+
+Overall, the Farm Store has a diverse product mix that combines fresh produce, grocery and bakery items, and customizable gifts. However, seasonal inventory changes and the more personalized nature of gift orders create challenges that should be considered when expanding ecommerce. An effective online experience should make it easy for customers to understand what products are available, view relevant product information, and complete an order with as few additional steps as possible.
+
+
+**Table 2.2. Main Product Categories**
+
+| Product Category | Examples | Key Consideration |
+|---|---|---|
+| **CPP Produce** | Oranges, mandarins, lemons, corn, cucumbers, collard greens, golden melon | Availability may change depending on inventory and season |
+| **Produce** | Apples, potatoes, yams | Current availability should be clearly communicated online |
+| **Bakery – Old Town** | Bread, cookies, muffins, Morning Delights | Some products require customers to specify flavor preferences |
+| **Grocery / Dairy** | Whole milk, chocolate milk, strawberry milk | Product information should clearly explain bottle deposits when applicable |
+| **Gift Shop** | Gift packs, Custom Gift Baskets, Custom Gift Boxes | Customization and ordering could be made easier through digital channels |
+
+
+2.4 Current Strengths
+
+CPP Farm Store has several strengths that give it a unique position compared with traditional grocery retailers. One of its main advantages is its strong connection to Cal Poly Pomona. The Farm Store's campus identity and CPP-branded products provide a level of authenticity that is difficult for larger grocery chains to replicate. This connection also allows the store to appeal to students, faculty, staff, alumni, and members of the surrounding community who value supporting the university and locally produced products. 
+
+Another important strength is the Farm Store's emphasis on fresh and locally grown products. A large portion of its produce comes directly from the university's agricultural operations, which helps distinguish the store from competitors that rely primarily on conventional supply chains. In addition, the combination of CPP-grown products and items from outside vendors allows the Farm Store to offer a broader selection while maintaining its local identity.
+
+The physical store itself is also an important part of the customer experience. Previous observations identified features such as seasonal displays, CPP private-label merchandising, two store entrances, and the fresh orange juice press as elements that make the location more memorable than a typical grocery shopping trip. Its location on campus also provides access to regular traffic from students, faculty, staff, and campus visitors. 
+
+The Farm Store also has an existing digital audience that can support future omnichannel efforts. The team's previous analysis found that its social media accounts already have an established following, which gives the store a starting point for promoting products, seasonal offerings, and online ordering options. Rather than having to build digital awareness entirely from the beginning, the Farm Store can use its existing audience to direct more customers toward improved online shopping options. 
+
+Finally, customer service is another strength. Employees are knowledgeable about the products and are willing to assist customers with custom orders, including gift baskets. This personal service is valuable because customization is one of the features that makes the Farm Store different from larger retailers. As digital ordering options are introduced, maintaining this level of personalization will be important to preserve the character of the existing customer experience. 
+
+
+**Table 2.3. Key Current Strengths**
+
+| Strength | Why It Matters |
+|---|---|
+| **Connection to Cal Poly Pomona** | Creates a recognizable identity and differentiates the Farm Store from traditional grocery retailers |
+| **Fresh and locally grown products** | Provides customers with products closely connected to CPP's agricultural operations |
+| **Unique in-store experience** | Seasonal merchandising, CPP branding, and features such as the orange juice press make the physical store distinctive |
+| **Campus location** | Provides access to students, faculty, staff, and campus visitors |
+| **Existing digital audience** | Gives the Farm Store an established audience for future digital and ecommerce promotion |
+| **Personalized customer service** | Supports custom orders and creates a more personal shopping experience |
+
+
+2.5 Current Weaknesses
+
+Despite its strong connection to Cal Poly Pomona and its unique product offering, the Farm Store currently faces several limitations that affect both the customer experience and its ability to expand across digital channels. Many of these weaknesses are related to the gap between the store's physical experience and its online presence.
+
+One of the main weaknesses is the Farm Store's limited ecommerce functionality. The physical store provides customers with access to a wide range of products, but the online experience does not provide the same level of product discovery and convenience. The team's previous analysis found that customers do not have access to a complete online product catalog or real-time inventory information. This can make it difficult for customers to know what is available before visiting the store, particularly because the availability of fresh and seasonal products can change frequently. 
+
+The Farm Store's digital presence is also fragmented across multiple channels. Previous research identified a university webpage, a separate gift website, a food-ordering platform, and multiple social media accounts rather than one central digital destination. While these channels provide some online visibility, having information spread across different platforms can make the customer journey less consistent and may create confusion about where customers should go to browse products, place orders, or find current information. 
+
+Another important weakness is the gift basket ordering process. The current process relies heavily on manual communication between customers and Farm Store employees. Customers may need assistance to understand the available options, customize their basket, and complete an order. From an operational perspective, this also creates additional work for employees, especially because the store does not have a dedicated gift basket attendant. Simplifying this process through a more structured digital ordering system could reduce unnecessary steps for both customers and staff.
+
+Marketing and customer communication are also areas for improvement. The Farm Store has an existing social media audience, but the team's earlier analysis found limited use of paid media, email campaigns, and coordinated promotional activities. In addition, there was no evidence of a structured customer relationship management (CRM) process for customer segmentation, post-purchase communication, or channel attribution. These limitations make it more difficult to understand customer behavior and develop targeted marketing efforts. 
+
+Finally, the Farm Store's limited operating hours and dependence on the physical location can reduce accessibility for customers who cannot visit during store hours. Without a fully integrated online shopping option, these customers have fewer opportunities to browse products or interact with the store outside of a physical visit. This reinforces the need for digital channels that complement the in-store experience rather than replace it. 
+
+
+**Table 2.4. Key Current Weaknesses**
+
+| Weakness | Potential Impact |
+|---|---|
+| **Limited ecommerce functionality** | Customers have fewer opportunities to browse and purchase products online |
+| **No complete online catalog or real-time inventory** | Customers may not know what products are available before visiting |
+| **Fragmented digital presence** | Customers must navigate multiple platforms to find information |
+| **Manual gift basket ordering process** | Creates additional steps for customers and employees |
+| **Limited coordinated digital marketing** | Reduces the Farm Store's ability to consistently promote products and offers |
+| **Limited CRM capabilities** | Makes customer segmentation, follow-up communication, and attribution more difficult |
+| **Dependence on physical store hours** | Limits access for customers who cannot visit during operating hours |
+
+
+2.6 Market and Environmental Opportunities
+
+CPP Farm Store has several opportunities to improve its market reach and respond to changes in customer shopping behavior. One of the most important is the continued shift toward digital and omnichannel shopping. Customers increasingly expect to be able to find product information online before deciding when and where to make a purchase. For the Farm Store, improving the connection between its digital channels and physical location could make the shopping process more convenient without taking away from the in-store experience.
+
+A stronger digital presence also creates an opportunity to increase awareness among Cal Poly Pomona students, the primary target market identified in the team's previous analysis. Although the Farm Store is located on campus, the team found that awareness remains relatively low among many students. Because this customer segment is highly engaged with social media and mobile devices, digital communication can help the Farm Store reach students who may not currently consider it part of their regular shopping routine. 
+
+The Farm Store can also benefit from its connection to the broader Cal Poly Pomona community. Partnerships with student organizations, campus events, and university activities could create additional opportunities to introduce customers to the store and its products. Graduation, holidays, and other campus events may be especially relevant for promoting gift products and seasonal offerings. The Farm Store's connection to CPP gives it access to a community that traditional grocery competitors cannot easily replicate. 
+
+Another opportunity involves developing stronger relationships with existing customers. The team's previous situation analysis identified loyalty and rewards programs as a potential area for growth. Combined with better customer data and communication, this could allow the Farm Store to encourage repeat visits and provide more relevant promotions to different customer groups. 
+
+Finally, the Farm Store's gift products offer an opportunity for digital growth. Gift packs, Custom Gift Baskets, and Custom Gift Boxes provide customers with options that go beyond traditional grocery purchases. Making these products easier to discover and order online could expand their reach beyond customers who already know about the service or visit the physical store. This is particularly relevant because improving the gift ordering process has been identified as one of the main business priorities for the project. 
+
+
+**Table 2.5. Key Market Opportunities**
+
+| Opportunity | Potential Value for CPP Farm Store |
+|---|---|
+| **Omnichannel shopping** | Connect online product discovery and ordering with the physical store experience |
+| **Greater student awareness** | Reach more of the Farm Store's primary target market |
+| **Digital and social media marketing** | Increase visibility of products, seasonal offerings, and promotions |
+| **Campus partnerships and events** | Use CPP's existing community to attract new and returning customers |
+| **Loyalty and rewards** | Encourage repeat purchases and strengthen customer relationships |
+| **Digital gift ordering** | Make gift products easier to discover, customize, and order |
+
+
+
+2.7 Competitive and Operational Challenges
+
+CPP Farm Store operates in a competitive retail environment where customers have several alternatives for purchasing fresh produce, groceries, and specialty products. The team's previous industry analysis identified high competitive rivalry and high buyer power as important challenges. Customers can easily compare prices and choose among different retailers, making product quality, convenience, and differentiation important factors in the Farm Store's ability to compete. 
+
+Grocery retailers such as Trader Joe's, Whole Foods, and Sprouts represent important competitors because customers can compare price, product selection, and convenience across different shopping alternatives. Rather than competing directly with larger retailers based on size or product variety, the Farm Store has an opportunity to differentiate itself through its connection to Cal Poly Pomona, campus-grown products, and unique specialty offerings. These characteristics give the Farm Store an identity that is difficult for traditional grocery retailers to replicate. 
+
+The Farm Store also faces challenges related to seasonal and fluctuating inventory. Fresh and locally grown products are an important part of its product assortment, but availability can change depending on season and supply. The current product information reviewed for this project states that some items are not guaranteed and that inventory may fluctuate. This presents an additional challenge for ecommerce because online product information needs to reflect availability as accurately as possible. Keeping this information updated can help reduce situations in which customers attempt to order products that are no longer available.
+
+From an operational perspective, staffing and order management are also important considerations. The team's previous analysis found that staffing is relatively limited and that there is no dedicated employee assigned specifically to gift basket orders. As a result, custom gift orders may require employees to divide their attention between regular store responsibilities and assisting customers with the ordering process. If online and custom orders increase in the future, the Farm Store will need to consider how these orders can be managed without creating unnecessary additional work for employees. 
+
+Broader economic and market conditions may also affect the Farm Store. The team's SWOT analysis identified rising food costs and inflation, changes in consumer shopping habits, competition from food delivery services, and seasonal fluctuations in customer traffic as potential threats. These factors are largely outside the Farm Store's direct control, but they may influence customer purchasing decisions and increase the importance of offering a convenient and differentiated shopping experience. 
+
+Overall, the Farm Store's competitive challenge is not simply competing with larger grocery retailers. It must balance the characteristics that make it unique—including locally grown products, seasonal availability, personalized service, and its connection to Cal Poly Pomona—with changing customer expectations and its own operational limitations. As the Farm Store expands its digital capabilities, it will be important to maintain these strengths while ensuring that new ecommerce processes are realistic given its inventory and staffing resources.
+
+**Table 2.6. Competitive and Operational Challenges**
+
+| Challenge | Potential Impact |
+|---|---|
+| **High retail competition** | Customers have many alternatives for groceries and fresh products |
+| **High buyer power** | Customers can easily compare price, selection, and convenience |
+| **Seasonal and fluctuating inventory** | Online product availability may be difficult to keep consistently updated |
+| **Limited staffing** | Additional digital and custom orders could increase employee workload |
+| **Rising costs and inflation** | May affect operating costs and customer purchasing decisions |
+| **Changing shopping behavior** | May increase the importance of convenient and accessible shopping options |
+| **Food delivery competition** | Alternative services compete with the Farm Store for customer spending and convenience |
+| **Seasonal customer traffic** | Demand may vary throughout the year and by season |
+
+
+
+2.8 SWOT Summary
+
+The SWOT analysis summarizes the main internal and external factors affecting CPP Farm Store's current retail position. The Farm Store benefits from its strong connection to Cal Poly Pomona, locally grown products, distinctive in-store experience, and established relationship with the campus community. At the same time, limited ecommerce capabilities, fragmented digital channels, and operational constraints make it more difficult to provide a consistent shopping experience across physical and digital channels. 
+
+These challenges also create opportunities for growth. Improving digital product discovery, strengthening customer communication, and connecting online ordering with the physical store could make the Farm Store more accessible to its existing customers while helping increase awareness among students. However, the Farm Store must also consider external challenges such as retail competition, rising food costs, changing consumer behavior, food delivery alternatives, and seasonal fluctuations in customer traffic. 
+
+
+**Table 2.7. SWOT Analysis**
+
+| Strengths | Weaknesses | Opportunities | Threats |
+|---|---|---|---|
+| Strong connection to Cal Poly Pomona | Limited ecommerce functionality | Improve the omnichannel shopping experience | Competition from grocery retailers |
+| Fresh, locally and campus-grown products | Fragmented digital presence | Expand digital and social media marketing | Rising food costs and inflation |
+| Unique specialty products | Manual gift basket ordering process | Improve online product discovery and ordering | Changes in consumer shopping habits |
+| Distinctive in-store experience | Limited coordinated marketing | Develop loyalty and rewards initiatives | Competition from food delivery services |
+| Convenient campus location | Limited CRM and customer tracking capabilities | Partner with student organizations and campus events | Seasonal fluctuations in customer traffic |
+| Existing social media audience | Limited operating hours and staffing | Improve the digital gift ordering experience | Fluctuating product availability |
+
+
+Overall, the situation analysis shows that CPP Farm Store is well positioned to strengthen its omnichannel strategy by building on its connection to Cal Poly Pomona, distinctive product assortment, and existing customer base. However, gaps between the store's physical and digital channels currently limit the convenience and accessibility of the customer experience. Addressing these gaps can help the Farm Store better connect with customers while preserving the qualities that make it unique. The following customer journey analysis examines these challenges in greater detail and identifies key areas where the customer experience can be improved.
+
+
 
 # Omnichannel Journey Analysis
 
