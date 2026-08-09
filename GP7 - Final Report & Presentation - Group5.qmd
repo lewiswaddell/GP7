@@ -248,6 +248,81 @@ The customer journey map served as the strategic foundation for every recommenda
 # Ecommerce / Shopify Prototype
 
 # Product Feed / Retail Media Setup
+## 5. Product Feed and Retail Media Setup
+
+A strong product feed would allow CPP Farm Store to make selected products easier to discover through Google Search, Google Shopping, and future retail media campaigns. Rather than placing every Farm Store product online immediately, CPP Farm Store should begin with a smaller group of products that are easy to maintain, visually appealing, and well suited for online discovery and in-store pickup.
+
+### Selected Products
+
+The initial product feed should focus on categories with strong customer appeal and manageable inventory. Recommended categories include:
+
+-   Seasonal produce bundles
+
+-   Gift baskets and gift bundles
+
+-   Plants and seasonal nursery products
+
+-   CPP-branded merchandise and campus gifts
+
+-   Shelf-stable specialty products such as honey, jams, nuts, and sauces
+
+These products provide a mix of everyday purchases, seasonal products, and gift-oriented items that can appeal to students, faculty, staff, alumni, and members of the surrounding community.
+
+### Feed Structure
+
+Each product listed online should contain complete and consistent information across Shopify, the CPP Farm Store website, and Google Merchant Center. Important feed attributes include the product title, description, price, availability, product image, landing-page URL, product category, and relevant product identifiers when available.
+
+Shopify can serve as the central ecommerce platform where product information is maintained. Product information can then be submitted to Google Merchant Center so eligible products can appear across Google surfaces. Keeping Shopify and Merchant Center information synchronized is especially important because customers should see the same price and availability information when moving from Google to the Farm Store website.
+
+### Product Titles and Descriptions
+
+Product titles should be specific, searchable, and easy for customers to understand. Instead of using general titles such as “Gift Basket” or “Fruit Box,” the Farm Store should use descriptive titles such as “CPP Farm Store Seasonal Fruit Basket” or “Cal Poly Pomona Local Produce Box.”
+
+Descriptions should identify what the product contains, its major benefits, approximate size or quantity when relevant, seasonal availability, and pickup information. Product descriptions should also naturally include terms customers may use while searching without becoming overly promotional.
+
+Consistent naming is especially important because unclear or incomplete product information can reduce visibility in Google Shopping and create confusion for customers.
+
+### Product Image Needs
+
+High-quality product photography should be a major priority. Each product should have a clear primary image with good lighting and minimal background distractions. Additional images can show product size, packaging, individual items included in a bundle, or the product in use.
+
+Gift baskets, produce bundles, plants, and CPP-branded merchandise are particularly strong opportunities for visual merchandising. Consistent photography would make the Farm Store appear more professional across Shopify, Google Shopping, social media, and campaign materials.
+
+### Product Categories
+
+Products should be organized into clear categories that match how customers shop. Recommended categories include:
+
+-   Fresh Produce
+
+-   Seasonal Bundles
+
+-   Gift Baskets
+
+-   Plants and Nursery
+
+-   CPP Merchandise
+
+-   Specialty Foods
+
+Using consistent categories would improve both website navigation and product-feed organization while making it easier to analyze performance by product type.
+
+### Feed-Quality Concerns
+
+One of the biggest challenges for CPP Farm Store is the seasonal and changing nature of its inventory. Produce, plants, and seasonal items may become unavailable quickly, creating the risk that Google displays a product that is no longer available in the store.
+
+Other potential feed-quality issues include inconsistent product naming, outdated prices, low-quality or missing images, incomplete product descriptions, missing product identifiers, and unclear pickup instructions. Price and availability information should match between Shopify, Google Merchant Center, and the physical store.
+
+Because CPP Farm Store operates differently from a traditional ecommerce retailer, staff time is another important consideration. The Farm Store should create a simple process for reviewing inventory, updating seasonal products, and checking Merchant Center for product warnings or disapprovals.
+
+### Recommended Products for Promotion
+
+CPP Farm Store should initially promote products that have broad appeal, strong visual presentation, and relatively predictable availability. Seasonal produce bundles and gift baskets are especially strong candidates because they combine multiple Farm Store products into convenient purchases while also increasing average order value.
+
+Promotional themes could include fresh fruit packs, finals-week snack bundles, alumni gifts, holiday gift boxes, and seasonal produce bundles. The Farm Store could also cross-merchandise produce with shelf-stable products such as honey, jams, nuts, and sauces.
+
+Retail media should initially support online discovery rather than attempt to turn CPP Farm Store into a fully online retailer. Google Search and Shopping can introduce customers to available products, while Shopify provides product information and the physical Farm Store or pickup experience completes the purchase journey.
+
+Overall, CPP Farm Store should begin with a limited, high-quality product feed and expand only after its inventory management and pickup processes are reliable. This approach would improve online product discovery while remaining realistic for the Farm Store's seasonal inventory and available resources.
 
 # Campaign Plan
 
