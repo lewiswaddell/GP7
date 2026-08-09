@@ -516,13 +516,17 @@ Recommended campaign assets include:
 
 -   Seasonal versions for graduation, holidays, employee appreciation, and other gifting occasions
 
+### Mockups
+
+![Instagram Feed Sample - AI Generated](images/clipboard-1294210001.png)
+
 ## Channel Fit
 
 Each asset should be designed for its specific channel while maintaining consistent branding. Social media assets should be visual and mobile-friendly, email should provide a direct path to featured products, and physical signage should use simple messaging and prominent QR codes. Website assets should reinforce the same message customers encountered before arriving on the site.
 
 ## AI Use
 
-Generative AI can support early-stage concept development, mockups, headline variations, social media copy, and visual layout exploration. AI-generated concepts should be reviewed and refined by the team before use. Final product-focused advertisements should prioritize authentic Farm Store photography so customers see accurate representations of the products they are purchasing.
+Generative AI can support early-stage concept development, mockups, headline variations, social media copy, and visual layout exploration. AI-generated concepts should be reviewed and refined by the team before use. It is important to provide official logos and instruct the AI to use html color blocking. Final product-focused advertisements should prioritize authentic Farm Store photography so customers see accurate representations of the products they are purchasing.
 
 ## Brand-Fit Explanation
 
