@@ -520,6 +520,8 @@ Recommended campaign assets include:
 
 ![Instagram Feed Sample - AI Generated](images/clipboard-1294210001.png)
 
+![Email Client Sample - AI Generated](Email Client Mockup.png)
+
 ## Channel Fit
 
 Each asset should be designed for its specific channel while maintaining consistent branding. Social media assets should be visual and mobile-friendly, email should provide a direct path to featured products, and physical signage should use simple messaging and prominent QR codes. Website assets should reinforce the same message customers encountered before arriving on the site.
