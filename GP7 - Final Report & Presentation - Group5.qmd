@@ -486,6 +486,48 @@ Campaign resources can then be shifted toward the highest-performing channels, a
 
 # Creative Brief / AI Assets
 
+## Creative Objective
+
+The creative campaign should increase awareness of CPP Farm Store gift baskets and motivate customers to visit the website to browse and purchase. All creative assets should support the campaign goal of connecting digital and physical touchpoints to the online store.
+
+## Key Message
+
+**“Grown at CPP. Gifted by You.”**
+
+The message positions Farm Store gift baskets as unique, locally connected, and meaningful gifts while emphasizing convenience through online ordering. Supporting calls to action may include *“Shop Gift Baskets,” “Build Your Basket,”* and *“Send a Taste of CPP.”*
+
+## Tone and Style
+
+Creative materials should feel *warm, authentic, fresh, and community-focused.* Visuals should highlight real products, gift basket presentation, local agriculture, and recognizable CPP elements. Photography should be bright and natural, with simple layouts that keep the products as the main focus. Messaging should be approachable rather than overly commercial.
+
+## Sample Assets
+
+Recommended campaign assets include:
+
+-   Instagram feed and Story advertisements featuring seasonal gift baskets
+
+-   Email banner promoting online gift basket ordering
+
+-   Campus and in-store posters with QR codes linking directly to the gift basket webpage
+
+-   Website homepage banner and gift basket landing-page graphics
+
+-   Short-form social content featuring basket assembly or individual products
+
+-   Seasonal versions for graduation, holidays, employee appreciation, and other gifting occasions
+
+## Channel Fit
+
+Each asset should be designed for its specific channel while maintaining consistent branding. Social media assets should be visual and mobile-friendly, email should provide a direct path to featured products, and physical signage should use simple messaging and prominent QR codes. Website assets should reinforce the same message customers encountered before arriving on the site.
+
+## AI Use
+
+Generative AI can support early-stage concept development, mockups, headline variations, social media copy, and visual layout exploration. AI-generated concepts should be reviewed and refined by the team before use. Final product-focused advertisements should prioritize authentic Farm Store photography so customers see accurate representations of the products they are purchasing.
+
+## Brand-Fit Explanation
+
+The campaign aligns with the CPP Farm Store brand by emphasizing local agriculture, university connection, product quality, and community support. Rather than presenting the Farm Store as a traditional online retailer, the creative direction preserves its unique identity while modernizing how customers discover and purchase its products. Consistent use of CPP-associated imagery, Farm Store products, natural visuals, and community-centered messaging helps ensure that the campaign remains recognizable and authentic across every channel.
+
 # Analytics Dashboard
 
 # Final Recommendations
