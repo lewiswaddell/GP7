@@ -247,7 +247,48 @@ The customer journey map served as the strategic foundation for every recommenda
 
 # Ecommerce / Shopify Prototype
 
+Link: <https://cpp-farm-store-prototype.myshopify.com/>
+
+![](images/clipboard-1427575368.jpeg)
+
+![](images/clipboard-2549579839.jpeg)
+
+![](images/clipboard-4198909931.jpeg)
+
+![](images/clipboard-2062843550.jpeg)
+
+## **CPP Farm Store — Shopify Mini-Store Recommendation**
+
+### Purpose
+
+This store was built to show how a farm , specifically a campus farm like CPP's can have a real, professional online presence without overcomplicating things an making the UX experience very simple. The goal was to prove that a small, mission-driven retailer can use Shopify to serve both online customers and people who walk up to a physical stand, all from one platform.
+
+### Product Categories
+
+The five collections weren't chosen randomly. **Fresh Produce** and **Specialty Foods** represent the farm's core inventory and what they grow and make. **Gift Bundles** taps into a high-value buying occasion, since people often want to give local, artisanal products as gifts. **Seasonal Favorites** reflects the reality of farm retail which is that not everything is available year-round, and highlighting what's in season creates urgency and authenticity. **CPP Favorites** acts as a curated "start here" for new visitors who don't know where to start.
+
+### Homepage Strategy
+
+The homepage prioritizes gifts and seasonal items because those are the products most likely to convert a first-time visitor. Someone landing on the site for the first time doesn't need to see everything — they need to see something compelling quickly. Leading with Gift Baskets and Seasonal Favorites does exactly that.
+
+### Product Page Strategy
+
+By organizing products into meaningful collections, each product page carries context. A customer looking at a jar of honey in **Specialty Foods** understands it's an artisanal, value-added product — not just a commodity. That framing influences how people perceive value and makes them more likely to buy.
+
+### Navigation Structure
+
+The menu: **Home → Gift Baskets → Seasonal Favorites → About Us** tells a story. It moves the customer from arrival, to the most giftable product, to what's fresh right now, to who we are. The About Us placement at the end is intentional: once someone is interested, they want to know the story behind the farm before committing to a purchase. There is also very important information about the farm store located in the **About Us page.**
+
+### Customer Experience
+
+The supporting pages: Store Pickup, Store Info, Contact, About Us, and Privacy were each added with a specific customer in mind. A local student might want to pick up an order between classes. A parent visiting campus might want to know the store's hours. A first-time online buyer might want to read the farm's story before trusting them with a purchase. Each page answers a real question a real customer would have.
+
+### Online & Offline Shopping
+
+Most small farm stores are either fully in-person or fully online so this prototype bridges both. With the CPP Farm Store's shopify website, online shoppers get a full e-commerce experience with collections, product pages, and checkout. In person shoppers are supported through the Store Pickup and Store Info pages, which reduce friction for locals who prefer to visit in person but want to browse or order ahead online. The two channels reinforce each other rather than competing.
+
 # Product Feed / Retail Media Setup
+
 ## 5. Product Feed and Retail Media Setup
 
 A strong product feed would allow CPP Farm Store to make selected products easier to discover through Google Search, Google Shopping, and future retail media campaigns. Rather than placing every Farm Store product online immediately, CPP Farm Store should begin with a smaller group of products that are easy to maintain, visually appealing, and well suited for online discovery and in-store pickup.
@@ -256,15 +297,15 @@ A strong product feed would allow CPP Farm Store to make selected products easie
 
 The initial product feed should focus on categories with strong customer appeal and manageable inventory. Recommended categories include:
 
--   Seasonal produce bundles
+- Seasonal produce bundles
 
--   Gift baskets and gift bundles
+- Gift baskets and gift bundles
 
--   Plants and seasonal nursery products
+- Plants and seasonal nursery products
 
--   CPP-branded merchandise and campus gifts
+- CPP-branded merchandise and campus gifts
 
--   Shelf-stable specialty products such as honey, jams, nuts, and sauces
+- Shelf-stable specialty products such as honey, jams, nuts, and sauces
 
 These products provide a mix of everyday purchases, seasonal products, and gift-oriented items that can appeal to students, faculty, staff, alumni, and members of the surrounding community.
 
@@ -292,17 +333,17 @@ Gift baskets, produce bundles, plants, and CPP-branded merchandise are particula
 
 Products should be organized into clear categories that match how customers shop. Recommended categories include:
 
--   Fresh Produce
+- Fresh Produce
 
--   Seasonal Bundles
+- Seasonal Bundles
 
--   Gift Baskets
+- Gift Baskets
 
--   Plants and Nursery
+- Plants and Nursery
 
--   CPP Merchandise
+- CPP Merchandise
 
--   Specialty Foods
+- Specialty Foods
 
 Using consistent categories would improve both website navigation and product-feed organization while making it easier to analyze performance by product type.
 
@@ -330,16 +371,58 @@ Overall, CPP Farm Store should begin with a limited, high-quality product feed a
 
 # Analytics Dashboard
 
+- **Measurement objectives**
+
+  The goal of the dashboard that we created was to show the information the CPP Farm Store could track if they had their marketing, website, and sales data set up and integrated. Because the Farm Store does not have any of this data currently available, we created simulated data to demonstrate what a future CPP Farm Store dashboard could look like.
+
+- **Data sources**
+
+  Since the CPP Farm Store does not have the data available, our dashboard uses a simulated campaign, GA4, eccomerce, and omnichannel data for academic purposes. The numbers that are found in the data spreadsheet are not real CPP Farm Store results.
+
+  The reason for choosing this tpe of data was because they represent information that the Farm Store could collect in the future. GA4 could provide website information like users and sessions while ecommerce or sales data can provide purchases, revenue, and product performance. Marketing campaign data could provide the Farm Store with information about click and advertising performance. So by combining these sources, the Farm Store could have a better overall picture of how customers and potential customers interact with their store.
+
+- **KPIs**
+
+  The KPI''s we decided to choose would give the Farm Store a simple overview of its performance. So our dashboard includes
+
+  - **Revenue** - money generated from sales
+
+  - **Purchases** - how many purchases customers make
+
+  - **Users** - how many people visit the website
+
+  - **Sessions** - total number of website visits
+
+  - **Campaign Clicks** - how many clicks marketing campaigns receive
+
+  - **Conversion Rate** - how often website visits turn into purchases
+
+  - **ROAS ( Return on Ad Spend)** - tells us whether advertising is generating enough revenue compared to what is being spent.
+
+  - **Average Order Value** - how much customers spend on average per purchase
+
+- **Dashboard screenshots or link**
+
+  ![](images/clipboard-141583509.png){width="702"}
+
+  CPP Farm Store Simulated Data: <https://docs.google.com/spreadsheets/d/1VGpNvBcBvh3cdmXxKpXOL_6eN2AIgGyc39b_xcC3XsE/edit?usp=sharing>
+
+- **Key insights**
+
+- **Recommended actions**
+
+- **Data limitations**
+
 # Final Recommendations
 
 # Conclusion
 
 # Appendix
 
--   [GitHub Repo](https://github.com/lewiswaddell/GP7.git)
+- [GitHub Repo](https://github.com/lewiswaddell/GP7.git)
 
--   [GitHub Page](https://lewiswaddell.github.io/GP7/)
+- [GitHub Page](https://lewiswaddell.github.io/GP7/)
 
--   [Creative Asset OneDrive](https://livecsupomona-my.sharepoint.com/:f:/g/personal/lewiswaddell_cpp_edu/IgAHNSasOhFFTKvCIr9KSiX4ARCBBBdovH_U_9iEdJw09Hg?e=lHWzJb)
+- [Creative Asset OneDrive](https://livecsupomona-my.sharepoint.com/:f:/g/personal/lewiswaddell_cpp_edu/IgAHNSasOhFFTKvCIr9KSiX4ARCBBBdovH_U_9iEdJw09Hg?e=lHWzJb)
 
--   Presentation Slides
+- Presentation Slides
