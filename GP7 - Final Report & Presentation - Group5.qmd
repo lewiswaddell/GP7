@@ -18,7 +18,7 @@ execute:
   freeze: auto
 ---
 
-# 1. Executive Summary
+# Executive Summary
 
 The Cal Poly Pomona (CPP) Farm Store is a unique campus operated retailer that provides fresh, locally grown products while supporting the university's agricultural programs and Learn by Doing philosophy. Although the Farm Store offers high quality products and a distinctive shopping experience, its current customer journey contains several opportunities for improvement. Customers face fragmented digital touchpoints, limited online shopping capabilities, and a largely manual gift basket ordering process that creates friction for both customers and employees. These challenges reduce convenience, limit product discoverability, and make it difficult to deliver the seamless omnichannel experience today's consumers expect.
 
@@ -26,7 +26,7 @@ To address these challenges, our team developed an omnichannel retail strategy t
 
 Our recommendations are supported by customer research, competitive analysis, SWOT analysis, and journey mapping, all of which identified opportunities to improve convenience, visibility, communication, and long term customer engagement. By creating a more connected omnichannel ecosystem, the CPP Farm Store can simplify the customer experience, increase operational efficiency, strengthen customer loyalty, and position itself for sustainable future growth while continuing to serve both the university and surrounding community.
 
-# 2. Client and Situation Analysis
+# Client and Situation Analysis
 
 2.1 Company Overview
 
@@ -49,7 +49,7 @@ While students remain the primary focus of the Farm Store's growth strategy, the
 **Table 2.1. Target Customer Segments**
 
 | Customer Segment | Characteristics | Primary Needs |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **CPP Students (Primary Target)** | Ages 18–25, digitally engaged, campus-based | Convenience, affordability, healthy options, easy product information, online ordering |
 | **Faculty & Staff** | Campus employees and potential repeat customers | Convenience, quality, fresh products |
 | **Local Community** | Families and individuals near CPP | Locally sourced, seasonal, and sustainable products |
@@ -70,7 +70,7 @@ Overall, the Farm Store has a diverse product mix that combines fresh produce, g
 **Table 2.2. Main Product Categories**
 
 | Product Category | Examples | Key Consideration |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **CPP Produce** | Oranges, mandarins, lemons, corn, cucumbers, collard greens, golden melon | Availability may change depending on inventory and season |
 | **Produce** | Apples, potatoes, yams | Current availability should be clearly communicated online |
 | **Bakery – Old Town** | Bread, cookies, muffins, Morning Delights | Some products require customers to specify flavor preferences |
@@ -92,7 +92,7 @@ Finally, customer service is another strength. Employees are knowledgeable about
 **Table 2.3. Key Current Strengths**
 
 | Strength | Why It Matters |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Connection to Cal Poly Pomona** | Creates a recognizable identity and differentiates the Farm Store from traditional grocery retailers |
 | **Fresh and locally grown products** | Provides customers with products closely connected to CPP's agricultural operations |
 | **Unique in-store experience** | Seasonal merchandising, CPP branding, and features such as the orange juice press make the physical store distinctive |
@@ -117,7 +117,7 @@ Finally, the Farm Store's limited operating hours and dependence on the physical
 **Table 2.4. Key Current Weaknesses**
 
 | Weakness | Potential Impact |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Limited ecommerce functionality** | Customers have fewer opportunities to browse and purchase products online |
 | **No complete online catalog or real-time inventory** | Customers may not know what products are available before visiting |
 | **Fragmented digital presence** | Customers must navigate multiple platforms to find information |
@@ -141,7 +141,7 @@ Finally, the Farm Store's gift products offer an opportunity for digital growth.
 **Table 2.5. Key Market Opportunities**
 
 | Opportunity | Potential Value for CPP Farm Store |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Omnichannel shopping** | Connect online product discovery and ordering with the physical store experience |
 | **Greater student awareness** | Reach more of the Farm Store's primary target market |
 | **Digital and social media marketing** | Increase visibility of products, seasonal offerings, and promotions |
@@ -166,7 +166,7 @@ Overall, the Farm Store's competitive challenge is not simply competing with lar
 **Table 2.6. Competitive and Operational Challenges**
 
 | Challenge | Potential Impact |
-|------------------------------------|------------------------------------|
+|----|----|
 | **High retail competition** | Customers have many alternatives for groceries and fresh products |
 | **High buyer power** | Customers can easily compare price, selection, and convenience |
 | **Seasonal and fluctuating inventory** | Online product availability may be difficult to keep consistently updated |
@@ -185,7 +185,7 @@ These challenges also create opportunities for growth. Improving digital product
 **Table 2.7. SWOT Analysis**
 
 | Strengths | Weaknesses | Opportunities | Threats |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Strong connection to Cal Poly Pomona | Limited ecommerce functionality | Improve the omnichannel shopping experience | Competition from grocery retailers |
 | Fresh, locally and campus-grown products | Fragmented digital presence | Expand digital and social media marketing | Rising food costs and inflation |
 | Unique specialty products | Manual gift basket ordering process | Improve online product discovery and ordering | Changes in consumer shopping habits |
@@ -367,7 +367,212 @@ Overall, CPP Farm Store should begin with a limited, high-quality product feed a
 
 # Campaign Plan
 
+## Business Problem
+
+The CPP Farm Store offers unique, locally sourced products and customizable gift baskets, but limited digital promotion and a largely manual ordering process reduce product visibility and create friction for customers. As such, many potential customers may be unaware of the gift basket options or may abandon the purchase process because ordering is not convenient online.
+
+To support the proposed omnichannel strategy, the CPP Farm Store should implement an integrated marketing campaign designed to increase awareness of its gift basket offerings, drive consumers to the Farm Store website, and convert website visitors into gift basket customers. The campaign, **“Grown at CPP. Gifted by You.”**, would emphasize the qualities that differentiate the Farm Store from traditional retailers: locally sourced products, CPP connections, specialty products, freshness, and the ability to create a meaningful gift while supporting the university community.
+
+The proposed Shopify storefront serves as the central conversion point, while social media, email, campus communications, QR codes, in-store promotion, product feeds, and seasonal campaigns generate awareness and direct customers to the website.
+
+## Campaign Objective
+
+The primary objective of the campaign is to make the Farm Store website the central destination for discovering and purchasing gift baskets. Rather than relying primarily on customers to learn about gift baskets while visiting the physical store, the Farm Store can actively introduce these products to customers through digital channels and provide a direct path from product discovery to purchase.
+
+The campaign should focus on four objectives:
+
+1.  **Increase qualified traffic to the Farm Store website** by using social media, email, search, campus communications, and physical QR codes to direct customers to dedicated gift basket landing pages.
+
+2.  **Increase online gift basket purchases** by simplifying the ordering process and allowing customers to browse options, select products, customize baskets, and complete purchases through the proposed Shopify storefront.
+
+3.  **Improve product awareness and discoverability** by regularly featuring gift baskets, CPP-produced products, seasonal products, and locally sourced items across digital channels.
+
+4.  **Build repeat customer engagement** by collecting customer information, encouraging email sign-ups, promoting seasonal gift occasions, and using website analytics to understand which products and campaigns generate the strongest response.
+
+## Target Audience
+
+**Students** can be targeted with affordable gift options for birthdays, graduation, holidays, appreciation gifts, and other occasions. Social media, QR codes, and mobile-friendly content should be especially important for reaching this audience.
+
+**Faculty and staff** represent an opportunity for employee appreciation, department gifts, celebrations, retirement gifts, holiday giving, and other workplace occasions. Email and campus communications can provide convenient links directly to online gift basket ordering.
+
+**Parents, alumni, and campus visitors** can be reached by positioning gift baskets as a way to maintain a connection with Cal Poly Pomona. CPP-branded, campus-grown, and locally produced items can make the baskets more distinctive than conventional gift options.
+
+**Local community residents** can be targeted through messaging emphasizing fresh, locally sourced, specialty products and the opportunity to support a university-operated agricultural retailer.
+
+Across these audiences, the campaign should reinforce three positioning themes:
+
+- fresh and locally sourced products
+
+- specialty and unique offerings
+
+- accessible gift options at different price points
+
+## Message Strategy
+
+The campaign message, **“Grown at CPP. Gifted by You.”**, positions CPP Farm Store gift baskets as a meaningful and convenient alternative to generic gifts. The message should highlight the Farm Store’s connection to Cal Poly Pomona, locally sourced products, and the opportunity to support the university community.
+
+The strategy will focus on three key benefits: local connection, convenience, and personalization. Gift baskets should be promoted as unique because they feature CPP-grown, locally sourced, and specialty products. Messaging should also emphasize the ease of browsing, customizing, and purchasing baskets online through the proposed Shopify storefront. Finally, the campaign should communicate the emotional value of giving a thoughtful gift for occasions such as graduation, birthdays, employee appreciation, and holidays.
+
+Messaging can be adjusted by audience. Students may respond to affordable and convenient gifting options, while faculty and staff may value professional or appreciation gifts. Alumni and parents can be reached through CPP pride and nostalgia, while local residents may respond to messages about supporting local agriculture.
+
+Across social media, email, signage, and the website, the tone should remain *warm, authentic, and community-focused*, supported by consistent calls to action such as “Shop Gift Baskets,” “Build Your Basket,” and “Send a Taste of CPP.”
+
+## Channel Strategy
+
+### Social Media
+
+Social media should function primarily as a traffic-generation channel rather than only an awareness channel. Gift basket posts should consistently direct customers toward the online store.
+
+Content can include short videos showing baskets being assembled, individual CPP products featured inside baskets, seasonal product highlights, customer gift ideas, behind-the-scenes Farm Store content, and gift recommendations for different occasions.
+
+Every campaign post should contain a clear website call to action. Instagram Stories and similar formats can use direct shopping links, while QR codes can be incorporated into physical promotional materials.
+
+A recurring content theme such as *“What’s in the Basket?”* could spotlight individual products and communicate the value of purchasing locally sourced and CPP-connected products.
+
+### Email Marketing
+
+Email provides an opportunity to reach customers when gift purchasing is most relevant. Instead of sending only general Farm Store updates, selected messages should focus specifically on occasions that create demand for gifting.
+
+Potential campaigns include:
+
+- Graduation and congratulations
+
+- On-campus resident house warming
+
+- Mother’s Day and Father’s Day
+
+- Thanksgiving and winter holidays
+
+- Faculty and staff appreciation
+
+- Birthdays and celebrations
+
+- Alumni and Homecoming events
+
+- Employee or department gifts
+
+Each email should feature a small number of baskets and direct customers to the appropriate product page rather than overwhelming customers with too many choices.
+
+### Campus and In-Store Promotion
+
+The physical Farm Store and CPP campus can also become important sources of digital traffic. Signs near checkout, gift displays, campus events, department offices, and other high-traffic locations can include QR codes that connect directly to the gift basket webpage.
+
+For example:
+
+**Need a Gift? Scan to Build a CPP Farm Store Basket.**
+
+This approach connects the physical and digital customer experience and allows customers who discover the products in person to complete their purchase online at a later time.
+
+Receipts, product inserts, and gift basket packaging can also promote the website and encourage future purchases.
+
+### Search and Product Discovery
+
+The team's product-feed and online-discovery recommendation should also support the campaign. Gift basket product titles, descriptions, images, and categories should use consistent information so customers can more easily discover Farm Store products through search and other digital platforms.
+
+Product pages should emphasize terms customers naturally associate with the purchase, including gift baskets, local gifts, CPP gifts, California-grown products, graduation gifts, holiday gift baskets, and customizable gifts where appropriate.
+
+The goal is to expand discovery beyond customers who already know that the Farm Store sells gift baskets.
+
+## Omnichannel Flow
+
+The strength of the campaign is that it does not operate as an isolated marketing recommendation. Instead, it connects the major components of the team's omnichannel strategy.
+
+The [*Shopify storefront*]{.underline} provides the digital destination where customers browse and purchase products. The [*gift basket modernization recommendation*]{.underline} removes friction from one of the Farm Store's strongest gifting opportunities. [*Product-feed optimization*]{.underline} improves online product discovery. [*Integrated marketing communications*]{.underline} create consistent messaging across social media, email, campus communication, and the physical store. Finally, the [*analytics dashboard*]{.underline} measures whether each of these activities contributes to website engagement and sales.
+
+Together, these recommendations create a closed-loop omnichannel system:
+
+**Marketing → Website → Product Discovery → Gift Basket Purchase → Customer Data → Retargeting and Repeat Purchase**
+
+This approach shifts the Farm Store from using digital channels primarily to communicate information toward using them to actively support commerce and customer relationships.
+
+## Budget Recommendation
+
+A pilot budget of approximately **\$2,000–\$3,000 per semester** is recommended to support campaign execution while keeping costs manageable. The majority of funding should be allocated to paid social media advertising and content creation, with smaller amounts reserved for campus signage, QR materials, email promotion, and campaign testing. Because the Farm Store can leverage existing CPP-owned channels, the budget can remain relatively low while still supporting measurable traffic and conversion goals.
+
+| Activity                        | Estimated Budget |
+|---------------------------------|------------------|
+| Social media advertising        | \$1,000–\$1,500  |
+| Photography/content creation    | \$400–\$600      |
+| Campus signage and QR materials | \$200–\$300      |
+| Email and promotional materials | \$100–\$200      |
+| Testing/contingency             | \$300–\$400      |
+
+## KPIs
+
+Campaign performance should be measured using KPIs that track both customer engagement and sales outcomes. Primary metrics should include website traffic to gift basket pages, traffic source, add-to-cart rate, checkout starts, website conversion rate, number of gift basket purchases, gift basket revenue, and average order value. These indicators will show whether the campaign is successfully moving customers from awareness to purchase.
+
+Supporting metrics should include social media link clicks, email click-through rates, QR code scans, returning website visitors, and repeat customers. Tracking traffic sources is especially important because it allows the Farm Store to determine whether social media, email, search, campus signage, or other channels are generating the strongest results. UTM links and unique QR codes should be used to improve attribution. Together, these KPIs will allow the Farm Store to measure campaign effectiveness, identify customer behavior patterns, and make data-driven decisions about future marketing investments.
+
+| KPI | What It Measures | Why It Matters |
+|----|----|----|
+| Website Traffic | Number of visitors to gift basket pages | Shows whether the campaign is successfully driving customers to the website |
+| Traffic Source | Visitors from social media, email, search, QR codes, and direct traffic | Identifies which channels generate the most traffic |
+| Add-to-Cart Rate | Percentage of visitors who add a gift basket to their cart | Measures purchase interest and product appeal |
+| Checkout Starts | Number of customers who begin the checkout process | Helps identify where customers may drop off before purchasing |
+| Conversion Rate | Percentage of website visitors who complete a purchase | Measures overall campaign and website effectiveness |
+| Gift Basket Purchases | Total number of gift basket orders | Tracks direct campaign sales performance |
+| Gift Basket Revenue | Total revenue generated from gift basket sales | Measures the campaign’s financial impact |
+| Average Order Value | Average amount spent per gift basket order | Helps evaluate customer spending behavior |
+| Email Click-Through Rate | Percentage of email recipients who click campaign links | Measures email engagement and effectiveness |
+| QR Code Scans | Number of scans from campus and in-store materials | Measures how well physical touchpoints drive digital traffic |
+| Returning Visitors | Customers who revisit the website | Indicates continued interest and engagement |
+| Repeat Purchases | Customers who make additional purchases | Measures retention and long-term campaign value |
+
+## Optimization Plan
+
+The Farm Store should review campaign performance monthly using the proposed analytics dashboard. UTM links and unique QR codes should identify which channels generate the most website traffic and purchases.
+
+Campaign resources can then be shifted toward the highest-performing channels, audiences, products, and seasonal promotions. The Farm Store should also test different product images, calls to action, gift basket price points, and landing-page layouts. This ongoing testing process will allow the campaign to improve over time while ensuring that marketing efforts contribute directly to website traffic and gift basket sales.
+
 # Creative Brief / AI Assets
+
+## Creative Objective
+
+The creative campaign should increase awareness of CPP Farm Store gift baskets and motivate customers to visit the website to browse and purchase. All creative assets should support the campaign goal of connecting digital and physical touchpoints to the online store.
+
+## Key Message
+
+**“Grown at CPP. Gifted by You.”**
+
+The message positions Farm Store gift baskets as unique, locally connected, and meaningful gifts while emphasizing convenience through online ordering. Supporting calls to action may include *“Shop Gift Baskets,” “Build Your Basket,”* and *“Send a Taste of CPP.”*
+
+## Tone and Style
+
+Creative materials should feel *warm, authentic, fresh, and community-focused.* Visuals should highlight real products, gift basket presentation, local agriculture, and recognizable CPP elements. Photography should be bright and natural, with simple layouts that keep the products as the main focus. Messaging should be approachable rather than overly commercial.
+
+## Sample Assets
+
+Recommended campaign assets include:
+
+- Instagram feed and Story advertisements featuring seasonal gift baskets
+
+- Email banner promoting online gift basket ordering
+
+- Campus and in-store posters with QR codes linking directly to the gift basket webpage
+
+- Website homepage banner and gift basket landing-page graphics
+
+- Short-form social content featuring basket assembly or individual products
+
+- Seasonal versions for graduation, holidays, employee appreciation, and other gifting occasions
+
+### Mockups
+
+![Instagram Feed Sample - AI Generated](images/clipboard-1294210001.png)
+
+![Email Client Sample - AI Generated](Email%20Client%20Mockup.png)
+
+## Channel Fit
+
+Each asset should be designed for its specific channel while maintaining consistent branding. Social media assets should be visual and mobile-friendly, email should provide a direct path to featured products, and physical signage should use simple messaging and prominent QR codes. Website assets should reinforce the same message customers encountered before arriving on the site.
+
+## AI Use
+
+Generative AI can support early-stage concept development, mockups, headline variations, social media copy, and visual layout exploration. AI-generated concepts should be reviewed and refined by the team before use. It is important to provide official logos and instruct the AI to use html color blocking. Final product-focused advertisements should prioritize authentic Farm Store photography so customers see accurate representations of the products they are purchasing.
+
+## Brand-Fit Explanation
+
+The campaign aligns with the CPP Farm Store brand by emphasizing local agriculture, university connection, product quality, and community support. Rather than presenting the Farm Store as a traditional online retailer, the creative direction preserves its unique identity while modernizing how customers discover and purchase its products. Consistent use of CPP-associated imagery, Farm Store products, natural visuals, and community-centered messaging helps ensure that the campaign remains recognizable and authentic across every channel.
 
 # Analytics Dashboard
 
