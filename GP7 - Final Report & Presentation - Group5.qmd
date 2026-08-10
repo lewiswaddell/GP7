@@ -297,15 +297,15 @@ A strong product feed would allow CPP Farm Store to make selected products easie
 
 The initial product feed should focus on categories with strong customer appeal and manageable inventory. Recommended categories include:
 
-- Seasonal produce bundles
+-   Seasonal produce bundles
 
-- Gift baskets and gift bundles
+-   Gift baskets and gift bundles
 
-- Plants and seasonal nursery products
+-   Plants and seasonal nursery products
 
-- CPP-branded merchandise and campus gifts
+-   CPP-branded merchandise and campus gifts
 
-- Shelf-stable specialty products such as honey, jams, nuts, and sauces
+-   Shelf-stable specialty products such as honey, jams, nuts, and sauces
 
 These products provide a mix of everyday purchases, seasonal products, and gift-oriented items that can appeal to students, faculty, staff, alumni, and members of the surrounding community.
 
@@ -333,17 +333,17 @@ Gift baskets, produce bundles, plants, and CPP-branded merchandise are particula
 
 Products should be organized into clear categories that match how customers shop. Recommended categories include:
 
-- Fresh Produce
+-   Fresh Produce
 
-- Seasonal Bundles
+-   Seasonal Bundles
 
-- Gift Baskets
+-   Gift Baskets
 
-- Plants and Nursery
+-   Plants and Nursery
 
-- CPP Merchandise
+-   CPP Merchandise
 
-- Specialty Foods
+-   Specialty Foods
 
 Using consistent categories would improve both website navigation and product-feed organization while making it easier to analyze performance by product type.
 
@@ -401,11 +401,11 @@ The campaign should focus on four objectives:
 
 Across these audiences, the campaign should reinforce three positioning themes:
 
-- fresh and locally sourced products
+-   fresh and locally sourced products
 
-- specialty and unique offerings
+-   specialty and unique offerings
 
-- accessible gift options at different price points
+-   accessible gift options at different price points
 
 ## Message Strategy
 
@@ -435,21 +435,21 @@ Email provides an opportunity to reach customers when gift purchasing is most re
 
 Potential campaigns include:
 
-- Graduation and congratulations
+-   Graduation and congratulations
 
-- On-campus resident house warming
+-   On-campus resident house warming
 
-- Mother’s Day and Father’s Day
+-   Mother’s Day and Father’s Day
 
-- Thanksgiving and winter holidays
+-   Thanksgiving and winter holidays
 
-- Faculty and staff appreciation
+-   Faculty and staff appreciation
 
-- Birthdays and celebrations
+-   Birthdays and celebrations
 
-- Alumni and Homecoming events
+-   Alumni and Homecoming events
 
-- Employee or department gifts
+-   Employee or department gifts
 
 Each email should feature a small number of baskets and direct customers to the appropriate product page rather than overwhelming customers with too many choices.
 
@@ -544,17 +544,17 @@ Creative materials should feel *warm, authentic, fresh, and community-focused.* 
 
 Recommended campaign assets include:
 
-- Instagram feed and Story advertisements featuring seasonal gift baskets
+-   Instagram feed and Story advertisements featuring seasonal gift baskets
 
-- Email banner promoting online gift basket ordering
+-   Email banner promoting online gift basket ordering
 
-- Campus and in-store posters with QR codes linking directly to the gift basket webpage
+-   Campus and in-store posters with QR codes linking directly to the gift basket webpage
 
-- Website homepage banner and gift basket landing-page graphics
+-   Website homepage banner and gift basket landing-page graphics
 
-- Short-form social content featuring basket assembly or individual products
+-   Short-form social content featuring basket assembly or individual products
 
-- Seasonal versions for graduation, holidays, employee appreciation, and other gifting occasions
+-   Seasonal versions for graduation, holidays, employee appreciation, and other gifting occasions
 
 ### Mockups
 
@@ -576,117 +576,117 @@ The campaign aligns with the CPP Farm Store brand by emphasizing local agricultu
 
 # Analytics Dashboard
 
-- **Measurement objectives**
+-   **Measurement objectives**
 
-  The goal of the dashboard that we created was to show the information the CPP Farm Store could track if they had their marketing, website, and sales data set up and integrated. Because the Farm Store does not have any of this data currently available, we created simulated data to demonstrate what a future CPP Farm Store dashboard could look like.
+    The goal of the dashboard that we created was to show the information the CPP Farm Store could track if they had their marketing, website, and sales data set up and integrated. Because the Farm Store does not have any of this data currently available, we created simulated data to demonstrate what a future CPP Farm Store dashboard could look like.
 
-- **Data sources**
+-   **Data sources**
 
-  Since the CPP Farm Store does not have the data available, our dashboard uses a simulated campaign, GA4, eccomerce, and omnichannel data for academic purposes. The numbers that are found in the data spreadsheet are not real CPP Farm Store results.
+    Since the CPP Farm Store does not have the data available, our dashboard uses a simulated campaign, GA4, eccomerce, and omnichannel data for academic purposes. The numbers that are found in the data spreadsheet are not real CPP Farm Store results.
 
-  The reason for choosing this tpe of data was because they represent information that the Farm Store could collect in the future. GA4 could provide website information like users and sessions while ecommerce or sales data can provide purchases, revenue, and product performance. Marketing campaign data could provide the Farm Store with information about click and advertising performance. So by combining these sources, the Farm Store could have a better overall picture of how customers and potential customers interact with their store.
+    The reason for choosing this tpe of data was because they represent information that the Farm Store could collect in the future. GA4 could provide website information like users and sessions while ecommerce or sales data can provide purchases, revenue, and product performance. Marketing campaign data could provide the Farm Store with information about click and advertising performance. So by combining these sources, the Farm Store could have a better overall picture of how customers and potential customers interact with their store.
 
-- **KPIs**
+-   **KPIs**
 
-  The KPI''s we decided to choose would give the Farm Store a simple overview of its performance. So our dashboard includes
+    The KPI''s we decided to choose would give the Farm Store a simple overview of its performance. So our dashboard includes
 
-  - **Revenue** - money generated from sales
+    -   **Revenue** - money generated from sales
 
-  - **Purchases** - how many purchases customers make
+    -   **Purchases** - how many purchases customers make
 
-  - **Users** - how many people visit the website
+    -   **Users** - how many people visit the website
 
-  - **Sessions** - total number of website visits
+    -   **Sessions** - total number of website visits
 
-  - **Campaign Clicks** - how many clicks marketing campaigns receive
+    -   **Campaign Clicks** - how many clicks marketing campaigns receive
 
-  - **Conversion Rate** - how often website visits turn into purchases
+    -   **Conversion Rate** - how often website visits turn into purchases
 
-  - **ROAS ( Return on Ad Spend)** - tells us whether advertising is generating enough revenue compared to what is being spent.
+    -   **ROAS ( Return on Ad Spend)** - tells us whether advertising is generating enough revenue compared to what is being spent.
 
-  - **Average Order Value** - how much customers spend on average per purchase
+    -   **Average Order Value** - how much customers spend on average per purchase
 
-- **Dashboard screenshots or link**
+-   **Dashboard screenshots or link**
 
-  ![](images/clipboard-141583509.png){width="702"}
+    ![](images/clipboard-141583509.png){width="702"}
 
-  Our dashboard collects and places all the measurements together in one place using looker studio. A the top, we included the main KPI's so that whoever is running the analytics can quickly see overall performance. We also included filters for campaign, campaign phase, channel, product category, device and date range. We also included charts such as Traffic Acquisition by Channel, Campaign Performance Trends, and a table showing Top Performing products that included the gift basket data.
+    Our dashboard collects and places all the measurements together in one place using looker studio. A the top, we included the main KPI's so that whoever is running the analytics can quickly see overall performance. We also included filters for campaign, campaign phase, channel, product category, device and date range. We also included charts such as Traffic Acquisition by Channel, Campaign Performance Trends, and a table showing Top Performing products that included the gift basket data.
 
-  CPP Farm Store Simulated Data: <https://docs.google.com/spreadsheets/d/1VGpNvBcBvh3cdmXxKpXOL_6eN2AIgGyc39b_xcC3XsE/edit?usp=sharing>
+    CPP Farm Store Simulated Data: <https://docs.google.com/spreadsheets/d/1VGpNvBcBvh3cdmXxKpXOL_6eN2AIgGyc39b_xcC3XsE/edit?usp=sharing>
 
-- **Key insights**
+-   **Key insights**
 
-  Because our data is simulated, the insights from the dashboard that we created should be viewed as examples of what type of insights the Farm Store could gain from collecting real data. For example, the dashboard makes it possible to compare traffic from different omnichannels like email, Instagram, Google Search, Campus and QR code, Facebook, and Google Shopping. Using these with real date could help the Farm Store see which channels bring in the most people to their website and which ones are leading to conversions.
+    Because our data is simulated, the insights from the dashboard that we created should be viewed as examples of what type of insights the Farm Store could gain from collecting real data. For example, the dashboard makes it possible to compare traffic from different omnichannels like email, Instagram, Google Search, Campus and QR code, Facebook, and Google Shopping. Using these with real date could help the Farm Store see which channels bring in the most people to their website and which ones are leading to conversions.
 
-  We also include a product table that compares revenue, purchases, product views, and add to carts for different products. With real data, the farm store could identify which products customers are interested in and which products generate the most revenue. Overall, the dashboard can help the Farm Store compare marketing activity over time. This would make it easier to see if certain campaigns, promotions, or times of the year lead to increases in purchases and revenue.
+    We also include a product table that compares revenue, purchases, product views, and add to carts for different products. With real data, the farm store could identify which products customers are interested in and which products generate the most revenue. Overall, the dashboard can help the Farm Store compare marketing activity over time. This would make it easier to see if certain campaigns, promotions, or times of the year lead to increases in purchases and revenue.
 
-- **Recommended actions**
+-   **Recommended actions**
 
-  Since the CPP Farm Store does not have any data available, our main recommendation would be to start connecting systems that could collect and track this information. This means having a working website up and running as well.
+    Since the CPP Farm Store does not have any data available, our main recommendation would be to start connecting systems that could collect and track this information. This means having a working website up and running as well.
 
-  One of the tools that the Farm Store should set up in Google Analytics 4 (GA4) on its website once it is complete in order to track users, sessions, traffic sources, product views, and online purchases. The Farm store could also connect its ecommerce system to track its conversions , revenue, products sold, and average order value.
+    One of the tools that the Farm Store should set up in Google Analytics 4 (GA4) on its website once it is complete in order to track users, sessions, traffic sources, product views, and online purchases. The Farm store could also connect its ecommerce system to track its conversions , revenue, products sold, and average order value.
 
-  Some other tools that would also be recommended are Google Ads, Meta Ads, and an email marketing platform. This makes it possible to track campaign clicks, advertising costs, and determine which marketing efforts are successful and leading to sales. By connecting these tools together, the Farm Store can better understand where their customers are coming from, what they are buying, and what marketing efforts are the most effective.
+    Some other tools that would also be recommended are Google Ads, Meta Ads, and an email marketing platform. This makes it possible to track campaign clicks, advertising costs, and determine which marketing efforts are successful and leading to sales. By connecting these tools together, the Farm Store can better understand where their customers are coming from, what they are buying, and what marketing efforts are the most effective.
 
-- **Data limitations**
+-   **Data limitations**
 
-  The obvious limitation that we have is that the dashboard is based on simulated data. Because of this we can't use the numbers to make conclusions on how the Farm Store is performing, so instead our dashboard should be seen as an example of what the Farm Store could eventually measure once their website is updated and set up. Another limitition would be the quality of the Farm Store's future dashboard if they were to decide to move forward with the recommendations. All of this would depend on what data the Farm Store decides to collect based on what tools they decide to use.
+    The obvious limitation that we have is that the dashboard is based on simulated data. Because of this we can't use the numbers to make conclusions on how the Farm Store is performing, so instead our dashboard should be seen as an example of what the Farm Store could eventually measure once their website is updated and set up. Another limitition would be the quality of the Farm Store's future dashboard if they were to decide to move forward with the recommendations. All of this would depend on what data the Farm Store decides to collect based on what tools they decide to use.
 
 # Final Recommendations
 
-- Recommendation 1: Create one updated and centralized website
+-   Recommendation 1: Create one updated and centralized website
 
-  - What CPP Farm Store should do
+    -   What CPP Farm Store should do
 
-    The first thing the CPP Farm Store should do is create one updated website that become the main online destination for the Farm Store. Currently, customers have to go through different online sources to find information they need, which can make the UX confusing, leading to losses in potential sales. The new website should bring together important information such as store hours, product info, seasonal availability, gift baskets, contact info, and eventually online ordering and pickup.
+        The first thing the CPP Farm Store should do is create one updated website that become the main online destination for the Farm Store. Currently, customers have to go through different online sources to find information they need, which can make the UX confusing, leading to losses in potential sales. The new website should bring together important information such as store hours, product info, seasonal availability, gift baskets, contact info, and eventually online ordering and pickup.
 
-  - Why it matters
+    -   Why it matters
 
-    This recommendation matters because other recommendations depend on having a centralized online place to send customers. There is little to no value running social media campaigns, Google listing, or email promotion if customers are being sent to an older confusing website.
+        This recommendation matters because other recommendations depend on having a centralized online place to send customers. There is little to no value running social media campaigns, Google listing, or email promotion if customers are being sent to an older confusing website.
 
-  - What resources may be needed
+    -   What resources may be needed
 
-    The Farm Store would need support in website design and development, updated product information, eccomerce online ordering system and staff time to keep product availability and other information current. The Farm Store would also need a process for keeping the website up to date and accurate because of the seasonal items that are offered.
+        The Farm Store would need support in website design and development, updated product information, eccomerce online ordering system and staff time to keep product availability and other information current. The Farm Store would also need a process for keeping the website up to date and accurate because of the seasonal items that are offered.
 
-  - How success should be measured
+    -   How success should be measured
 
-    Success could be measure through the amount of website users and sessions, traffic sources, product page views, time spend on site, online orders, conversion rates, and customer use of features like online ordering or pickup.
+        Success could be measure through the amount of website users and sessions, traffic sources, product page views, time spend on site, online orders, conversion rates, and customer use of features like online ordering or pickup.
 
-- Recommendation 2: Improve and Promote Gift Basket Sales
+-   Recommendation 2: Improve and Promote Gift Basket Sales
 
-  - What CPP Farm Store should do
+    -   What CPP Farm Store should do
 
-    Once the website is established, the Farm Store should use gift baskets as one fo the primary major products to promote through the new omnichannel experience. Potential customers and current customers should be able to easily find gift basket options online, understand what is included, see pricing and photos, customize , and complete the ordering process without having to rely on outdated email ordering communication. The promotion of gift baskets could be through social media, email, campus communications, in store signage and QR codes, Google Search, and seasonal campaigns.
+        Once the website is established, the Farm Store should use gift baskets as one fo the primary major products to promote through the new omnichannel experience. Potential customers and current customers should be able to easily find gift basket options online, understand what is included, see pricing and photos, customize , and complete the ordering process without having to rely on outdated email ordering communication. The promotion of gift baskets could be through social media, email, campus communications, in store signage and QR codes, Google Search, and seasonal campaigns.
 
-  - Why it matters
+    -   Why it matters
 
-    Gift baskets are a good starting point because they are unique to Farm Store experience and the Farm Star manager wants to focus on boosting sales and online ordering UX. So improving the process could make the gift baskets easier to purchase for the customers while also allowing the Farm Store to reach people who may not visit the physical store or even know about it.
+        Gift baskets are a good starting point because they are unique to Farm Store experience and the Farm Star manager wants to focus on boosting sales and online ordering UX. So improving the process could make the gift baskets easier to purchase for the customers while also allowing the Farm Store to reach people who may not visit the physical store or even know about it.
 
-  - What resources may be needed
+    -   What resources may be needed
 
-    The Farm Store might need to update their gift basket photos and descriptions, clear pricing and customization options, packaging materials, and allocated staff time to prepare and fulfill the orders. They would also need Marketing resources such as social media content, emails, QR code signage, and other promotional materials.
+        The Farm Store might need to update their gift basket photos and descriptions, clear pricing and customization options, packaging materials, and allocated staff time to prepare and fulfill the orders. They would also need Marketing resources such as social media content, emails, QR code signage, and other promotional materials.
 
-  - How success should be measured
+    -   How success should be measured
 
-    Success can be measured by tracking gift basket page views, add to carts, checkout starts, purchases, revenue, conversion rate, etc. Marketing measurements like social media clicks, email clicks, and QR code scans can also help the Farm Store see which channels are performing best.
+        Success can be measured by tracking gift basket page views, add to carts, checkout starts, purchases, revenue, conversion rate, etc. Marketing measurements like social media clicks, email clicks, and QR code scans can also help the Farm Store see which channels are performing best.
 
-- Recommendation 3: Set Up Analytics
+-   Recommendation 3: Set Up Analytics
 
-  - What CPP Farm Store should do
+    -   What CPP Farm Store should do
 
-    The Farm Store should connect its website , sales, and marketing data so it can measure how the new omnichannel strategy is performing. When the new website is up and running and customers are actively interacting with it, the Farm Store can set up GA4 and connect data from its ecommerce system. Marketing information from Google Ads, Meta Ads email campaigns, and QR codes can also be tracked.
+        The Farm Store should connect its website , sales, and marketing data so it can measure how the new omnichannel strategy is performing. When the new website is up and running and customers are actively interacting with it, the Farm Store can set up GA4 and connect data from its ecommerce system. Marketing information from Google Ads, Meta Ads email campaigns, and QR codes can also be tracked.
 
-  - Why it matters
+    -   Why it matters
 
-    It matters because the Farm Store does not have the sufficient data needed to know how customer move between its different current channels or how the store is performing without having to do it manually. Overall collecting this information allows the Farm Store to understand what is working and what is not. Knowing what works and focusing on it may help boost the sales of its gift baskets.
+        It matters because the Farm Store does not have the sufficient data needed to know how customer move between its different current channels or how the store is performing without having to do it manually. Overall collecting this information allows the Farm Store to understand what is working and what is not. Knowing what works and focusing on it may help boost the sales of its gift baskets.
 
-  - What resources may be needed
+    -   What resources may be needed
 
-    GA4 would need to be connected to all of its tools, and looker studio would be used to build a dashboard to connect all the data together and create the big picture.
+        GA4 would need to be connected to all of its tools, and looker studio would be used to build a dashboard to connect all the data together and create the big picture.
 
-  - How success should be measured
+    -   How success should be measured
 
-    Success could be measured through the KPI's that we proposed. It can be also measured by seeing whether the Farm Store can actually use the information they are collecting over time to strengthen their approaches and make better informed analytics backed decisions.
+        Success could be measured through the KPI's that we proposed. It can be also measured by seeing whether the Farm Store can actually use the information they are collecting over time to strengthen their approaches and make better informed analytics backed decisions.
 
 # Conclusion
 
@@ -696,10 +696,10 @@ Together, these recommendations create a more connected path from product discov
 
 # Appendix
 
-- [GitHub Repo](https://github.com/lewiswaddell/GP7.git)
+-   [GitHub Repo](https://github.com/lewiswaddell/GP7.git)
 
-- [GitHub Page](https://lewiswaddell.github.io/GP7/)
+-   [GitHub Page](https://lewiswaddell.github.io/GP7/)
 
-- [Creative Asset OneDrive](https://livecsupomona-my.sharepoint.com/:f:/g/personal/lewiswaddell_cpp_edu/IgAHNSasOhFFTKvCIr9KSiX4ARCBBBdovH_U_9iEdJw09Hg?e=lHWzJb)
+-   [Creative Asset OneDrive](https://livecsupomona-my.sharepoint.com/:f:/g/personal/lewiswaddell_cpp_edu/IgAHNSasOhFFTKvCIr9KSiX4ARCBBBdovH_U_9iEdJw09Hg?e=lHWzJb)
 
-- Presentation Slides
+-   [Presentation Slides](https://livecsupomona-my.sharepoint.com/:b:/g/personal/lewiswaddell_cpp_edu/IQDhsTgCs5L6TZTqfa0I0EeOAUeIiWr0yJYN6X3tdlcF0A8?e=h0qeeo)
