@@ -690,6 +690,10 @@ The campaign aligns with the CPP Farm Store brand by emphasizing local agricultu
 
 # Conclusion
 
+CPP Farm Store already has strong products, a unique connection to Cal Poly Pomona, and an in-store experience that gives it an advantage over traditional retailers. The main opportunity is to make that experience easier for customers to access online. Our recommendations begin with creating one centralized website, followed by improving and promoting gift basket sales, and finally setting up analytics to measure customer behavior and performance.
+
+Together, these recommendations create a more connected path from product discovery to purchase and future customer engagement. By improving its digital presence while keeping the local and community-focused identity that makes the Farm Store unique, CPP Farm Store can reach more customers, make shopping more convenient, and make better decisions as its omnichannel strategy grows.
+
 # Appendix
 
 - [GitHub Repo](https://github.com/lewiswaddell/GP7.git)
