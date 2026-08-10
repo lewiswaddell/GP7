@@ -49,7 +49,7 @@ While students remain the primary focus of the Farm Store's growth strategy, the
 **Table 2.1. Target Customer Segments**
 
 | Customer Segment | Characteristics | Primary Needs |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **CPP Students (Primary Target)** | Ages 18–25, digitally engaged, campus-based | Convenience, affordability, healthy options, easy product information, online ordering |
 | **Faculty & Staff** | Campus employees and potential repeat customers | Convenience, quality, fresh products |
 | **Local Community** | Families and individuals near CPP | Locally sourced, seasonal, and sustainable products |
@@ -70,7 +70,7 @@ Overall, the Farm Store has a diverse product mix that combines fresh produce, g
 **Table 2.2. Main Product Categories**
 
 | Product Category | Examples | Key Consideration |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **CPP Produce** | Oranges, mandarins, lemons, corn, cucumbers, collard greens, golden melon | Availability may change depending on inventory and season |
 | **Produce** | Apples, potatoes, yams | Current availability should be clearly communicated online |
 | **Bakery – Old Town** | Bread, cookies, muffins, Morning Delights | Some products require customers to specify flavor preferences |
@@ -92,7 +92,7 @@ Finally, customer service is another strength. Employees are knowledgeable about
 **Table 2.3. Key Current Strengths**
 
 | Strength | Why It Matters |
-|----|----|
+|------------------------------------|------------------------------------|
 | **Connection to Cal Poly Pomona** | Creates a recognizable identity and differentiates the Farm Store from traditional grocery retailers |
 | **Fresh and locally grown products** | Provides customers with products closely connected to CPP's agricultural operations |
 | **Unique in-store experience** | Seasonal merchandising, CPP branding, and features such as the orange juice press make the physical store distinctive |
@@ -117,7 +117,7 @@ Finally, the Farm Store's limited operating hours and dependence on the physical
 **Table 2.4. Key Current Weaknesses**
 
 | Weakness | Potential Impact |
-|----|----|
+|------------------------------------|------------------------------------|
 | **Limited ecommerce functionality** | Customers have fewer opportunities to browse and purchase products online |
 | **No complete online catalog or real-time inventory** | Customers may not know what products are available before visiting |
 | **Fragmented digital presence** | Customers must navigate multiple platforms to find information |
@@ -141,7 +141,7 @@ Finally, the Farm Store's gift products offer an opportunity for digital growth.
 **Table 2.5. Key Market Opportunities**
 
 | Opportunity | Potential Value for CPP Farm Store |
-|----|----|
+|------------------------------------|------------------------------------|
 | **Omnichannel shopping** | Connect online product discovery and ordering with the physical store experience |
 | **Greater student awareness** | Reach more of the Farm Store's primary target market |
 | **Digital and social media marketing** | Increase visibility of products, seasonal offerings, and promotions |
@@ -166,7 +166,7 @@ Overall, the Farm Store's competitive challenge is not simply competing with lar
 **Table 2.6. Competitive and Operational Challenges**
 
 | Challenge | Potential Impact |
-|----|----|
+|------------------------------------|------------------------------------|
 | **High retail competition** | Customers have many alternatives for groceries and fresh products |
 | **High buyer power** | Customers can easily compare price, selection, and convenience |
 | **Seasonal and fluctuating inventory** | Online product availability may be difficult to keep consistently updated |
@@ -185,7 +185,7 @@ These challenges also create opportunities for growth. Improving digital product
 **Table 2.7. SWOT Analysis**
 
 | Strengths | Weaknesses | Opportunities | Threats |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | Strong connection to Cal Poly Pomona | Limited ecommerce functionality | Improve the omnichannel shopping experience | Competition from grocery retailers |
 | Fresh, locally and campus-grown products | Fragmented digital presence | Expand digital and social media marketing | Rising food costs and inflation |
 | Unique specialty products | Manual gift basket ordering process | Improve online product discovery and ordering | Changes in consumer shopping habits |
@@ -504,7 +504,7 @@ Campaign performance should be measured using KPIs that track both customer enga
 Supporting metrics should include social media link clicks, email click-through rates, QR code scans, returning website visitors, and repeat customers. Tracking traffic sources is especially important because it allows the Farm Store to determine whether social media, email, search, campus signage, or other channels are generating the strongest results. UTM links and unique QR codes should be used to improve attribution. Together, these KPIs will allow the Farm Store to measure campaign effectiveness, identify customer behavior patterns, and make data-driven decisions about future marketing investments.
 
 | KPI | What It Measures | Why It Matters |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Website Traffic | Number of visitors to gift basket pages | Shows whether the campaign is successfully driving customers to the website |
 | Traffic Source | Visitors from social media, email, search, QR codes, and direct traffic | Identifies which channels generate the most traffic |
 | Add-to-Cart Rate | Percentage of visitors who add a gift basket to their cart | Measures purchase interest and product appeal |
@@ -610,15 +610,83 @@ The campaign aligns with the CPP Farm Store brand by emphasizing local agricultu
 
   ![](images/clipboard-141583509.png){width="702"}
 
+  Our dashboard collects and places all the measurements together in one place using looker studio. A the top, we included the main KPI's so that whoever is running the analytics can quickly see overall performance. We also included filters for campaign, campaign phase, channel, product category, device and date range. We also included charts such as Traffic Acquisition by Channel, Campaign Performance Trends, and a table showing Top Performing products that included the gift basket data.
+
   CPP Farm Store Simulated Data: <https://docs.google.com/spreadsheets/d/1VGpNvBcBvh3cdmXxKpXOL_6eN2AIgGyc39b_xcC3XsE/edit?usp=sharing>
 
 - **Key insights**
 
+  Because our data is simulated, the insights from the dashboard that we created should be viewed as examples of what type of insights the Farm Store could gain from collecting real data. For example, the dashboard makes it possible to compare traffic from different omnichannels like email, Instagram, Google Search, Campus and QR code, Facebook, and Google Shopping. Using these with real date could help the Farm Store see which channels bring in the most people to their website and which ones are leading to conversions.
+
+  We also include a product table that compares revenue, purchases, product views, and add to carts for different products. With real data, the farm store could identify which products customers are interested in and which products generate the most revenue. Overall, the dashboard can help the Farm Store compare marketing activity over time. This would make it easier to see if certain campaigns, promotions, or times of the year lead to increases in purchases and revenue.
+
 - **Recommended actions**
+
+  Since the CPP Farm Store does not have any data available, our main recommendation would be to start connecting systems that could collect and track this information. This means having a working website up and running as well.
+
+  One of the tools that the Farm Store should set up in Google Analytics 4 (GA4) on its website once it is complete in order to track users, sessions, traffic sources, product views, and online purchases. The Farm store could also connect its ecommerce system to track its conversions , revenue, products sold, and average order value.
+
+  Some other tools that would also be recommended are Google Ads, Meta Ads, and an email marketing platform. This makes it possible to track campaign clicks, advertising costs, and determine which marketing efforts are successful and leading to sales. By connecting these tools together, the Farm Store can better understand where their customers are coming from, what they are buying, and what marketing efforts are the most effective.
 
 - **Data limitations**
 
+  The obvious limitation that we have is that the dashboard is based on simulated data. Because of this we can't use the numbers to make conclusions on how the Farm Store is performing, so instead our dashboard should be seen as an example of what the Farm Store could eventually measure once their website is updated and set up. Another limitition would be the quality of the Farm Store's future dashboard if they were to decide to move forward with the recommendations. All of this would depend on what data the Farm Store decides to collect based on what tools they decide to use.
+
 # Final Recommendations
+
+- Recommendation 1: Create one updated and centralized website
+
+  - What CPP Farm Store should do
+
+    The first thing the CPP Farm Store should do is create one updated website that become the main online destination for the Farm Store. Currently, customers have to go through different online sources to find information they need, which can make the UX confusing, leading to losses in potential sales. The new website should bring together important information such as store hours, product info, seasonal availability, gift baskets, contact info, and eventually online ordering and pickup.
+
+  - Why it matters
+
+    This recommendation matters because other recommendations depend on having a centralized online place to send customers. There is little to no value running social media campaigns, Google listing, or email promotion if customers are being sent to an older confusing website.
+
+  - What resources may be needed
+
+    The Farm Store would need support in website design and development, updated product information, eccomerce online ordering system and staff time to keep product availability and other information current. The Farm Store would also need a process for keeping the website up to date and accurate because of the seasonal items that are offered.
+
+  - How success should be measured
+
+    Success could be measure through the amount of website users and sessions, traffic sources, product page views, time spend on site, online orders, conversion rates, and customer use of features like online ordering or pickup.
+
+- Recommendation 2: Improve and Promote Gift Basket Sales
+
+  - What CPP Farm Store should do
+
+    Once the website is established, the Farm Store should use gift baskets as one fo the primary major products to promote through the new omnichannel experience. Potential customers and current customers should be able to easily find gift basket options online, understand what is included, see pricing and photos, customize , and complete the ordering process without having to rely on outdated email ordering communication. The promotion of gift baskets could be through social media, email, campus communications, in store signage and QR codes, Google Search, and seasonal campaigns.
+
+  - Why it matters
+
+    Gift baskets are a good starting point because they are unique to Farm Store experience and the Farm Star manager wants to focus on boosting sales and online ordering UX. So improving the process could make the gift baskets easier to purchase for the customers while also allowing the Farm Store to reach people who may not visit the physical store or even know about it.
+
+  - What resources may be needed
+
+    The Farm Store might need to update their gift basket photos and descriptions, clear pricing and customization options, packaging materials, and allocated staff time to prepare and fulfill the orders. They would also need Marketing resources such as social media content, emails, QR code signage, and other promotional materials.
+
+  - How success should be measured
+
+    Success can be measured by tracking gift basket page views, add to carts, checkout starts, purchases, revenue, conversion rate, etc. Marketing measurements like social media clicks, email clicks, and QR code scans can also help the Farm Store see which channels are performing best.
+
+- Recommendation 3: Set Up Analytics
+
+  - What CPP Farm Store should do
+
+    The Farm Store should connect its website , sales, and marketing data so it can measure how the new omnichannel strategy is performing. When the new website is up and running and customers are actively interacting with it, the Farm Store can set up GA4 and connect data from its ecommerce system. Marketing information from Google Ads, Meta Ads email campaigns, and QR codes can also be tracked.
+
+  - Why it matters
+
+    It matters because the Farm Store does not have the sufficient data needed to know how customer move between its different current channels or how the store is performing without having to do it manually. Overall collecting this information allows the Farm Store to understand what is working and what is not. Knowing what works and focusing on it may help boost the sales of its gift baskets.
+
+  - What resources may be needed
+
+    GA4 would need to be connected to all of its tools, and looker studio would be used to build a dashboard to connect all the data together and create the big picture.
+
+  - How success should be measured
+
+    Success could be measured through the KPI's that we proposed. It can be also measured by seeing whether the Farm Store can actually use the information they are collecting over time to strengthen their approaches and make better informed analytics backed decisions.
 
 # Conclusion
 
